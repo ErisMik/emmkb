@@ -1,6 +1,6 @@
-# EEMKB
+# EMMKB
 
-An ultra-thin mechanical keyboard
+An ultra-thin 3d printable mechanical keyboard
 
 ## Background
 
