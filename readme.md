@@ -39,9 +39,3 @@ Parts List:
 * Top plate
 * Bottom Plate
 * Lots of wire
-
-*Pictures coming soon*
-
-## Software
-
-*Coming Soon*
